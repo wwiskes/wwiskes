@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @wwiskes
-- 👀 I’m interested in python and R
+Hey you've found my github. Not everything in here is super organzized. Please refer to my portfolio for the best examples of my work:
 
+[https://wwiskes.firebaseapp.com/](https://wwiskes.firebaseapp.com/)
